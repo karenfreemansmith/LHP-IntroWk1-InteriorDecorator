@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  line-height: 2em;
+  clear: both;
+}
+
+h3 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin: 4px;
+}
+
+.third {
+  width: 32%;
+  float: left;
+  margin: 5px;
+  border: solid 1px black;
+  height: 400px;
+}
+
+#headerimg {
+  width: 100%;
+}
