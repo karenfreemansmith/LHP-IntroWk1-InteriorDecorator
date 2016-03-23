@@ -1,9 +1,11 @@
 h1 {
   text-align: center;
+  color: #993333;
 }
 
 h2 {
   line-height: 2em;
+  color: #993333;
   clear: both;
 }
 
@@ -27,4 +29,19 @@ img {
 
 #headerimg {
   width: 100%;
+}
+
+.before {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.during {
+  background-color: #333333;
+  color: #f5f5f5;
+}
+
+.after {
+  background-color: #666666;
+  color: #f5f5f5;
 }
