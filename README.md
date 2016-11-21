@@ -10,20 +10,22 @@ __*A website for a fictional Interior Decorator*__
 
 Built **without** Bootstrap, this project was created to practice floats and the box model.
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Technologies Used
+HTML, CSS
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Known Issues
-* Missing photos for "before, during, after" columns
-* Needs project names/descriptions - filler text
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Technologies Used
-###### HTML, CSS
+## Known Issues
+* None
 
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
