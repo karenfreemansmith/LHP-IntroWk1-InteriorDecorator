@@ -1,22 +1,20 @@
-# :octocat: [Interiors by Julian](http://karenfreemansmith.github.io/decorator) :bamboo:
-![project screenshot](/img/screenshot.jpg)
+# Interiors by Julian
+Version 0.0.1: March 21, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 2: March 21, 2016__
+### Technologies Used
+HTML, CSS, Git, Github
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*A website for a fictional Interior Decorator*__
-
-Built **without** Bootstrap, this project was created to practice floats and the box model.
-
-## Technologies Used
-HTML, CSS
+## Description
+[Learn How to Program](http://learnhowtoprogram.com) Intro to Programming Week 1 Independent Project: Create an interior decorator site with columns for before/during/after to practice CSS page layout with floats.
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
-* _OR_
-* Clone diectory 
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk1-InteriorDecorator)
+
+ __OR__
+* Clone project to your computer
 * Open index.html in your favorite browser
 
 ## Support & Contact
@@ -26,6 +24,6 @@ For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 * None
 
 ## Legal
-*Licensed under the GNU General Public License v3.0*
+* Licensed under the GNU General Public License v3.0
 
 Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
